@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David Pierre</h1>
+<h3 align="center">I'm backend developer, passionate about Open Source and Information Security</h3>
 
-<!--
-**davidpalves/davidpalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I work as a Backend Software Engineer.
+- 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
+- 🐍 I'm a co-organizer of my local Python community (PUG-PE).
+- 📖 My current readings are about secure software development and design patterns.
+- 🧑‍💻 Alongside Python, I'm currently playing around with Golang and Rust.
+- 👨🏻‍⚖️ I am a Computer Science student at UFRPE.
 
-Here are some ideas to get you started:
+📫 Reach me at:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpalves/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidpierrealves21@gmail.com)
