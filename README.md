@@ -2,7 +2,6 @@
 <h3 align="center">I'm a backend developer passionate about Open Source and Information Security</h3>
 
 - 🖥️ I work as a Backend Software Engineer.
-- 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
 - 🐍 I'm a co-organizer of my local Python community (PUG-PE).
 - 📖 My current readings are about secure software development and design patterns.
 - 🧑‍💻 Alongside Python, I'm currently playing around with Golang and Rust.
