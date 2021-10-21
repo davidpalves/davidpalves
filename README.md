@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Pierre</h1>
-<h3 align="center">I'm backend developer, passionate about Open Source and Information Security</h3>
+<h3 align="center">I'm a backend developer passionate about Open Source and Information Security</h3>
 
 - 🖥️ I work as a Backend Software Engineer.
 - 👨🏻‍💻 I'm specialized in building the backend for web and mobile applications.
