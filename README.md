@@ -5,7 +5,7 @@
 - 🐍 I'm a co-organizer of my local Python community (PUG-PE).
 - 📖 My current readings are about secure software development and design patterns.
 - 🧑‍💻 Alongside Python, I'm currently playing around with Golang and Rust.
-- 👨🏻‍⚖️ I am a Computer Science student at UFRPE.
+- 👨🏽‍🎓 I am a Computer Science student at UFRPE.
 
 📫 Reach me at:
 
