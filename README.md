@@ -3,7 +3,7 @@
 
 - 🖥️ I work as a Backend Software Engineer.
 - 🐍 I'm a co-organizer of my local Python community (PUG-PE).
-- 📖 My current readings are about secure software development and design patterns.
+- 📖 My current readings are about system architecture and functional programming.
 - 🧑‍💻 Alongside Python, I'm currently working with Golang.
 - 👨🏽‍🎓 I am a Computer Science student at UFRPE.
 
